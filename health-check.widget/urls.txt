@@ -1,0 +1,7 @@
+https://www.google.com
+https://www.facebook.com
+https://nlp-tool.botnoinoi.com
+https://nlp-tool-staging.botnoinoi.com
+https://api-gateway.botnoinoi.com
+https://api-gateway-staging.botnoinoi.com
+https://pornhub.com
